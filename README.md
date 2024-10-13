@@ -4,9 +4,15 @@
 Antos1812
 
 ## Description
-A simple countdown timer that allows the user to input hours, minutes, and seconds. When the "Start" button is clicked, it counts down the time and displays it in HH:MM:SS format. The timer can also be reset at any time.
+
+![image](https://github.com/user-attachments/assets/ceceaf95-2750-454b-b099-c5aa57f8b3e5)
+
 
 ## Features
+
+![image](https://github.com/user-attachments/assets/caeecbc1-94b3-4c28-be40-3b8c9352c284)
+
+
 - Input fields for hours, minutes, and seconds.
 - Start button to initiate the countdown.
 - Reset button to reset the timer to 00:00:00.
